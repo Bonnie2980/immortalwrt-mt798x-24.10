@@ -213,6 +213,7 @@ platform_do_upgrade() {
 	cmcc,rax3000m |\
 	h3c,nx30pro |\
  	*honor,fur-602* |\
+	*star-net,sr503* |\
 	*konka,komi-a31* |\
 	*nokia,ea0326gmp* |\
 	*snand*)
