@@ -570,7 +570,7 @@ define Device/star-net_sr503
   IMAGE/factory.bin := append-ubi | check-size $$$$(IMAGE_SIZE)
   IMAGE/sysupgrade.bin := sysupgrade-tar | append-metadata
 endef
-TARGET_DEVICES += honor_fur-602
+TARGET_DEVICES += star-net_sr503
 
 define Device/konka_komi-a31
   DEVICE_VENDOR := KONKA
